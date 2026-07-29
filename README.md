@@ -50,30 +50,29 @@ Datasets included:
 
 ```text
 capstone-hospital-quality/
-│
-├── data/
-│   ├── raw/
-│   ├── interim/
-│   ├── processed/
-│   └── external/
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_EDA.ipynb
-│   ├── 04_predictive_modeling.ipynb
-│   └── 05_model_evaluation.ipynb
-│
-├── reports/
-│
-├── references/
-│
-├── src/
-│
-├── README.md
-├── pyproject.toml
-├── requirements.txt
-└── LICENSE
+    data/
+        raw/
+        interim/
+        processed/
+        external/
+
+    notebooks/
+        01_data_exploration.ipynb
+        02_data_cleaning.ipynb
+        03_EDA.ipynb
+        04_predictive_modeling.ipynb
+        05_model_evaluation.ipynb
+        
+    reports/
+
+    references/
+
+    src/
+
+    README.md
+    pyproject.toml
+    requirements.txt
+    LICENSE
 ```
 
 ---
